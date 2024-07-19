@@ -9,7 +9,7 @@ Hey there! I'm ruru, an aspiring Data Analyst with a knack for storytelling and 
 
 - Current Role: Expert Hunter & Content Creator for Fortune 500 Clients
 - Industry: Content Creation and Strategy
-- Skills: Data Analysis, Data Visualization, Excel, SQL, Python, Content Strategy, Project Management
+- Skills: Data Analysis, Data Visualization, Excel, SQL, Content Strategy, Project Management
 
 ## My Journey 💕
 
